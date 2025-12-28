@@ -91,3 +91,4 @@ venv.bak/
 
 # Custom
 **/game_state.jsonl
+**/game_events.jsonl
