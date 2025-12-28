@@ -87,7 +87,7 @@ env.bak/
 venv.bak/
 
 # Visual Studio Code
- .vscode/
+.vscode/
 
 # Custom
 **/game_state.jsonl
